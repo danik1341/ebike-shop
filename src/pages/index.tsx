@@ -118,7 +118,7 @@ function HomePage() {
             minWidth="518px"
             minHeight="368px"
             position="absolute"
-            right={-300}
+            left={1000}
             top={-100}
             p={1}
             display={{
